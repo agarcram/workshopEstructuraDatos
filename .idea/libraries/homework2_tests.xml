@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="homework2-tests">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/homework2-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/junit-dist.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/homework2-tests.jar!/" />
+    </SOURCES>
+  </library>
+</component>
